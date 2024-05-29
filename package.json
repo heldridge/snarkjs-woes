@@ -1,0 +1,19 @@
+{
+  "name": "poseidon-minimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circomlibjs": "^0.1.7",
+    "snarkjs": "^0.7.4",
+    "circomlib": "0.2.4",
+    "web3-utils": "1.2.11"
+  },
+  "type": "module"
+}
